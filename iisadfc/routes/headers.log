@@ -1,0 +1,9 @@
+Array
+(
+    [Host] => localhost
+    [Accept] => */*
+    [Content-Type] => application/json
+    [X-Requested-With] => XMLHttpRequest
+    [X-API-METHOD] => POST_VALIDATE
+    [Content-Length] => 27
+)
